@@ -2,4 +2,4 @@ Versão 1
 
 Atrasou
 
-Viadao
+Commitando direto
